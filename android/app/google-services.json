@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "779822490887",
+    "firebase_url": "https://prayer-app-e5e0f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "prayer-app-e5e0f",
+    "storage_bucket": "prayer-app-e5e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779822490887:android:92ad64630807ce61b511a2",
+        "android_client_info": {
+          "package_name": "com.example.chatapp_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779822490887-vmtt08p2eg066i05pvpi6dr7jc0ljs6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPPmleplkvIYmeNytTzxc-DaM1fu0H-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779822490887-vmtt08p2eg066i05pvpi6dr7jc0ljs6j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "779822490887-i3epv84g9mc347hnpka26s3kbi19rs14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.prayertime"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779822490887:android:ed5b0891a9140dd1b511a2",
+        "android_client_info": {
+          "package_name": "com.example.prayer_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779822490887-vmtt08p2eg066i05pvpi6dr7jc0ljs6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPPmleplkvIYmeNytTzxc-DaM1fu0H-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779822490887-vmtt08p2eg066i05pvpi6dr7jc0ljs6j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "779822490887-i3epv84g9mc347hnpka26s3kbi19rs14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.prayertime"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779822490887:android:4a92af9f0a8cab68b511a2",
+        "android_client_info": {
+          "package_name": "com.example.prayertime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779822490887-vmtt08p2eg066i05pvpi6dr7jc0ljs6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPPmleplkvIYmeNytTzxc-DaM1fu0H-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779822490887-vmtt08p2eg066i05pvpi6dr7jc0ljs6j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "779822490887-i3epv84g9mc347hnpka26s3kbi19rs14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.prayertime"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779822490887:android:0780f2c6a038899bb511a2",
+        "android_client_info": {
+          "package_name": "com.flt.ddt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779822490887-vmtt08p2eg066i05pvpi6dr7jc0ljs6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPPmleplkvIYmeNytTzxc-DaM1fu0H-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779822490887-vmtt08p2eg066i05pvpi6dr7jc0ljs6j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "779822490887-i3epv84g9mc347hnpka26s3kbi19rs14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.prayertime"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
